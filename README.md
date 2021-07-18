@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kosannetwork
 - 👀 I’m interested in Programming and Networking
-- 🌱 I’m currently learning PHP and C++ For Competitive Programming
+- 🌱 I’m currently learning Python and C++ For Competitive Programming
 - 💞️ I’m looking to collaborate on Website Or competition
 - 📫 How to reach me, gmail and instagram
 
